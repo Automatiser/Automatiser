@@ -7,7 +7,6 @@
 </p>
 <br>
 
-Optinova
 Optinova is a product-led company focused on building and operating proprietary systems. We design, own, and run our technology with an emphasis on clarity, discipline, and long-term control.
 Our work is guided by restraint and repeatable systems.
 Currently building an AI orchestration platform for user-generated content - automating realistic UGC for brands at scale.
