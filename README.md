@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Nathan Foley 👋</h1>
+<p align="center">
+  <b>Founder @ Optinova</b> — building AI media, automation & high-leverage internet systems.
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nathan-foley-444444444444444444/">💼 Connect with me on LinkedIn</a>
+</p>
 
-<!--
-**Automatiser/Automatiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm building
 
-Here are some ideas to get you started:
+🎬 Optinova — an AI UGC avatar orchestration platform that automates realistic user-generated content for brands at scale.
+🔗 Tapp-Link — smart routing infrastructure.
+🧠 Focus: AI infrastructure, automation systems, synthetic media, scalable distribution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ How I work
+
+Product & strategy lead. I pair vision, positioning and distribution with strong technical execution.
+
+
+Systems over services. Ownership over dependency. Distribution over features.
+
+
+📊 GitHub stats
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Automatiser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Automatiser&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Automatiser&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Automatiser&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Automatiser&color=blueviolet&style=flat" alt="profile views" />
+</p>
+
+<p align="center"><i>Execution is the strategy.</i></p>
