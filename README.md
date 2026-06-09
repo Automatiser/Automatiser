@@ -1,29 +1,23 @@
-<h1 align="center">Hi, I'm Nathan Foley 👋</h1>
+<h1 align="center">Nathan Foley</h1>
 <p align="center">
-  <b>Founder @ Optinova</b> - building AI media, automation & high-leverage internet systems.
+  Founder @ Optinova
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nathan-foley-444444444444444444/">💼 Connect with me on LinkedIn</a>
+  <a href="https://www.linkedin.com/in/nathan-foley-444444444444444444/">Connect on LinkedIn</a>
 </p>
+<br>
 
-🚀 What I'm building
+Optinova
+Optinova is a product-led company focused on building and operating proprietary systems. We design, own, and run our technology with an emphasis on clarity, discipline, and long-term control.
+Our work is guided by restraint and repeatable systems.
+Currently building an AI orchestration platform for user-generated content - automating realistic UGC for brands at scale.
+How I work
 
-🎬 Optinova - an AI UGC avatar orchestration platform that automates realistic user-generated content for brands at scale.
-🔗 Tapp-Link - smart routing infrastructure.
-🧠 Focus: AI infrastructure, automation systems, synthetic media, scalable distribution.
+Ownership over dependency
+Systems over services
+Distribution over features
+Restraint over noise
 
-🛠️ How I work
-
-Product & strategy lead. I pair vision, positioning and distribution with strong technical execution.
-
-
-Systems over services. Ownership over dependency. Distribution over features.
-
-
-📊 GitHub stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Automatiser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Automatiser&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<br>
 
 <p align="center"><i>Execution is the strategy.</i></p>
